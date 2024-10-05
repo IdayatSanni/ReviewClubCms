@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\reviewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\reviewerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\reviewerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\reviewerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\reviewdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\reviewdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Data\\Migrations\\20241005001546_Fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReviewClubCms\\Data\\Migrations\\20241005001546_Fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|c:\\users\\user\\source\\repos\\reviewclubcms\\reviewclubcms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D06F20-8316-415B-A250-B94D61E045ED}|ReviewClubCms\\ReviewClubCms.csproj|solutionrelative:reviewclubcms\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\BookDto.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\BookDto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\BookDto.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\BookDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:36:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewerDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\ReviewerDto.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\ReviewerDto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\ReviewerDto.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\ReviewerDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:38:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewerBook.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\ReviewerBook.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\ReviewerBook.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\ReviewerBook.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\ReviewerBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:02:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Reviewer.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\Reviewer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Reviewer.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\Reviewer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:28:26.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ReviewClubCms\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAowNIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:36:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ReviewClubCms\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:46:48.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewDtos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\ReviewDtos.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\ReviewDtos.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\ReviewDtos.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\ReviewDtos.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T05:51:13.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Review.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\Review.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:29:50.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\CategoryDto.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:23:26.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Category.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:31:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Models\\Book.cs",
+              "RelativeToolTip": "ReviewClubCms\\Models\\Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:30:06.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241005001546_Fifth.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Data\\Migrations\\20241005001546_Fifth.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Data\\Migrations\\20241005001546_Fifth.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Data\\Migrations\\20241005001546_Fifth.cs",
+              "RelativeToolTip": "ReviewClubCms\\Data\\Migrations\\20241005001546_Fifth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:15:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReviewClubCms\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ReviewClubCms\\ReviewClubCms\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReviewClubCms\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:52:26.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

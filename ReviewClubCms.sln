@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewClubCms", "ReviewClubCms\ReviewClubCms.csproj", "{87D06F20-8316-415B-A250-B94D61E045ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D06F20-8316-415B-A250-B94D61E045ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D06F20-8316-415B-A250-B94D61E045ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D06F20-8316-415B-A250-B94D61E045ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D06F20-8316-415B-A250-B94D61E045ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E301EF-78A0-443A-99E2-A38D846BE675}
+	EndGlobalSection
+EndGlobal
